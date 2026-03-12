@@ -1,0 +1,1 @@
+駕馭 LangChain 1.2+：Python 開發者的 AI Agent 實戰手冊
