@@ -25,7 +25,7 @@ def calculate(expression: str) -> str:
 memory = MemorySaver()
 
 agent = create_agent(
-    model="anthropic:claude-sonnet-4-6",
+    model="google_genai:gemini-2.5-flash",
     tools=[calculate],
     system_prompt="你是一個友善的數學助手，用繁體中文回答。記住使用者之前說過的內容。",
     checkpointer=memory,  # 啟用記憶功能
