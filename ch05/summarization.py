@@ -1,4 +1,4 @@
-# 檔案：ch05/04_summarization.py
+# 檔案：ch05/summarization.py
 
 import os
 from dotenv import load_dotenv

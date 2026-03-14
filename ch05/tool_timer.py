@@ -1,4 +1,4 @@
-# 檔案：ch05/13_tool_timer.py
+# 檔案：ch05/tool_timer.py
 
 import os
 import time

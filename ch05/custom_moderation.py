@@ -1,4 +1,4 @@
-# 檔案：ch05/09_custom_moderation.py
+# 檔案：ch05/custom_moderation.py
 
 import os
 import re

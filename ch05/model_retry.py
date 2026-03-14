@@ -1,4 +1,4 @@
-# 檔案：ch05/10_model_retry.py
+# 檔案：ch05/model_retry.py
 
 import os
 from dotenv import load_dotenv

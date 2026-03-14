@@ -1,4 +1,4 @@
-# 檔案：ch05/03_hitl_basic.py
+# 檔案：ch05/hitl_basic.py
 
 import os
 from dotenv import load_dotenv

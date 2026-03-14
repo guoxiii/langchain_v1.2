@@ -1,4 +1,4 @@
-# 檔案：ch05/11_token_budget.py
+# 檔案：ch05/token_budget.py
 
 import os
 from dotenv import load_dotenv

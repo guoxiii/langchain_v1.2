@@ -1,4 +1,4 @@
-# 檔案：ch05/02_hook_order.py
+# 檔案：ch05/hook_order.py
 
 import os
 from dotenv import load_dotenv

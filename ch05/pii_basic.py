@@ -1,4 +1,4 @@
-# 檔案：ch05/06_pii_basic.py
+# 檔案：ch05/pii_basic.py
 
 import os
 from dotenv import load_dotenv

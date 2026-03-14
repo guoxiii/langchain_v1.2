@@ -1,4 +1,4 @@
-# 檔案：ch05/01_simple_hook.py
+# 檔案：ch05/simple_hook.py
 
 import os
 from dotenv import load_dotenv
