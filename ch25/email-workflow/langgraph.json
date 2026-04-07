@@ -1,0 +1,7 @@
+{
+  "graphs": {
+    "email_workflow": "./src/email_workflow/graph.py:graph"
+  },
+  "dependencies": ["."],
+  "env": ".env"
+}

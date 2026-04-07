@@ -1,0 +1,18 @@
+# guardrails_config/config.yml
+
+models:
+  - type: main
+    engine: anthropic
+    model: claude-sonnet-4-6
+
+rails:
+  input:
+    flows:
+      - self check input
+  output:
+    flows:
+      - self check output
+
+  # 啟用內建的安全檢查
+  config:
+    enable_jailbreak_detection: true

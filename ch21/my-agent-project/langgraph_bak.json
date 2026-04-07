@@ -1,0 +1,10 @@
+{
+  "graphs": {
+    "my_agent": "./src/my_agent/agent.py:graph"
+  },
+  "env": ".env",
+  "dependencies": ["."],
+  "python_version": "3.12",
+  "pip_config_file": null,
+  "dockerfile_lines": []
+}

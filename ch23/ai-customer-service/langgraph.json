@@ -1,0 +1,8 @@
+{
+  "graphs": {
+    "customer-service": "src/agent/customer_service_agent.py:create_customer_service_agent"
+  },
+  "env": ".env",
+  "python_version": "3.12",
+  "dependencies": ["."]
+}
